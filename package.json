@@ -1,0 +1,19 @@
+{
+  "name": "css-helper-classes",
+  "version": "1.0.0",
+  "description": "Css classes to rapidly implement front end layouts without requiring extensive css scripting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/css-rad-classes.git"
+  },
+  "author": "Cliff Crerar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/css-rad-classes/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/css-rad-classes#readme"
+}
