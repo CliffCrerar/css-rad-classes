@@ -1,6 +1,6 @@
 CSS classes for rapid application development, implement great layouts in no time.
 
-Sliced out:
+Sliced out so far:
 	forms,
 	buttons,
 	transitions,
@@ -26,3 +26,8 @@ Sliced out:
 	popover,
 	carousel,
 	spinners
+
+1. Bootstrap source SCSS file in bsscssfiles.
+2. The "bootstrap.scss" is the file determining what is in and out.
+3. Run node buildcss.js.
+4. Find minified file in dist.
