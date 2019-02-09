@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CliffCrerar/css-rad-classes/issues"
   },
-  "homepage": "https://github.com/CliffCrerar/css-rad-classes#readme"
+  "homepage": "https://github.com/CliffCrerar/css-rad-classes#readme",
+  "dependencies": {
+    "mini-css": "^1.0.3",
+    "sass": "^1.17.0"
+  }
 }

@@ -1,1 +1,28 @@
 CSS classes for rapid application development, implement great layouts in no time.
+
+Sliced out:
+	forms,
+	buttons,
+	transitions,
+	dropdown,
+	button-group,
+	input-group,
+	custom-forms,
+	nav,
+	navbar,
+	card,
+	breadcrumb,
+	pagination,
+	badge,
+	jumbotron,
+	alert,
+	progress-bar,
+	media,
+	list-group,
+	close-button,
+	toasts,
+	modal,
+	tooltip,
+	popover,
+	carousel,
+	spinners
