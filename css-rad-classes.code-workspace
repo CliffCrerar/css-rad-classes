@@ -1,11 +1,38 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".",
+			"name": "css-classes-for-rad"
 		},
 		{
-			"path": "/Users/cliff/github/VSCODE_ext_manager"
+			"path": "/Users/cliff/Google Drive/Reuse/bootstrap-4.2.1 Source",
+			"name": "bootstrap4-source"
+		},
+		{
+			"path": "/Users/cliff/github/_temp_1/materialize-src",
+			"name": "materialize-source"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"stylelint.enable": true,
+		"stylelint.config": "./stylelintrc.json",
+		"liveServer.settings.ChromeDebuggingAttachment": false,
+		"liveServer.settings.donotShowInfoMsg": true,
+		"liveServer.settings.fullReload": true,
+		"liveServer.settings.ignoreFiles": [
+			".vscode/**",
+			"**/*.scss",
+			"**/*.sass",
+			"**/*.ts"
+		],
+		"liveServer.settings.port": 5500,
+		"liveServer.settings.root": "/",
+		"liveServer.settings.showOnStatusbar": true,
+		"liveServer.settings.wait": 100,
+		"editor.formatOnSave": true,
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 500,
+		"liveServer.settings.multiRootWorkspaceName": "css-classes-for-rad",
+		"liveServer.settings.host": "localhost"
+	}
 }
