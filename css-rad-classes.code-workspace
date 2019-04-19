@@ -5,7 +5,7 @@
 			"name": "css-classes-for-rad"
 		},
 		{
-			"path": "/Users/cliff/Google Drive/Reuse/bootstrap-4.2.1 Source",
+			"path": "/Users/cliffordcrerar/Google Drive/Reuse/bootstrap-4.2.1 Source",
 			"name": "bootstrap4-source"
 		},
 		{
@@ -32,7 +32,19 @@
 		"editor.formatOnSave": true,
 		"files.autoSave": "afterDelay",
 		"files.autoSaveDelay": 500,
-		"liveServer.settings.multiRootWorkspaceName": "css-classes-for-rad",
-		"liveServer.settings.host": "localhost"
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap4-source",
+		"liveServer.settings.host": "localhost",
+		"workbench.colorCustomizations": {},
+		"cSpell.words": [
+			"bootstrapcustom",
+			"bsscssfiles",
+			"buildcss",
+			"cssfile",
+			"cssout",
+			"cssradutils",
+			"js"
+		],
+		"editor.maxTokenizationLineLength": 50000,
+		"debug.node.autoAttach": "on"
 	}
 }
