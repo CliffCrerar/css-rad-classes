@@ -8,9 +8,9 @@
 @import 'functions';
 @import 'variables';
 @import 'mixins';
-//@import "root";
+@import 'root';
 @import 'reboot';
-//@import "type";
+@import "type";
 @import 'images';
 @import 'code';
 //@import 'grid';
@@ -39,6 +39,6 @@
 //@import "tooltip";
 //@import "popover";
 //@import "carousel";
-@import 'spinners';
+// @import 'spinners';
 @import 'utilities';
 @import 'print';
