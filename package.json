@@ -19,7 +19,7 @@
   "homepage": "https://github.com/CliffCrerar/css-rad-classes#readme",
   "dependencies": {
     "mini-css": "^1.0.3",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "sass": "^1.22.1"
   },
   "devDependencies": {
